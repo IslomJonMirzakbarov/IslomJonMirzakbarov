@@ -67,6 +67,7 @@
 <!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IslomJonMirzakbarov&show_icons=true&locale=en&layout=compact&hide=html,css" alt="IslomJonMirzakbarov" />
 </p> -->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en" alt="IslomJonMirzakbarov" />
 </p>
 <p>
