@@ -5,7 +5,6 @@
 
 <!-- 📝 I regularly write articles on [alisherm.dev](https://alisherm.dev) -->
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -58,7 +57,7 @@
   </a>  
 </p>
 
-<!-- 
+<!--
 <p>
 <img align="left" src="https://github-readme-stats-8b627pkbb-aliml92.vercel.app/api/top-langs?username=aliml92&show_icons=true&locale=en&layout=compact&hide=html,css" alt="aliml92" />
 </p>
@@ -71,4 +70,6 @@
 <!-- <a href="https://medium.com/@alisherm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisherm" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/aliml92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliml92" height="30" width="40" /></a>
 </p> -->
-- 📫 Reach me through email at islomjon.swe@gmail.com
+<p align="left">
+- 📫 Reach me through email at <a href="mailto:islomjon.swe@gmail.com" style="color:blue">islomjon.swe@gmail.com</a>
+</p>
