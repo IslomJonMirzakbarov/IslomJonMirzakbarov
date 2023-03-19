@@ -66,10 +66,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!-- <a href="mailto:islomjon.swe@gmail.com" target="blank" style="color:blue">islomjon.swe@gmail.com</a> -->
+<a href="mailto:islomjon.swe@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="islomjon.swe@gmail.com" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/islomjon-m-380845214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islomjon-m-380845214" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@alisherm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisherm" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/aliml92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliml92" height="30" width="40" /></a>
-</p> -->
-<p align="left">
-- 📫 Reach me through email at <a href="mailto:islomjon.swe@gmail.com" style="color:blue">islomjon.swe@gmail.com</a>
 </p>
+
+
+
+<!-- <a href="https://medium.com/@alisherm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisherm" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/aliml92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliml92" height="30" width="40" /></a> -->
+<!-- <p align="left">
+- 📫 Reach me through email at <a href="mailto:islomjon.swe@gmail.com" style="color:blue">islomjon.swe@gmail.com</a>
+</p> -->
