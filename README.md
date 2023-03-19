@@ -57,12 +57,18 @@
   </a>  
 </p>
 
-<!--
+<!-- 
 <p>
 <img align="left" src="https://github-readme-stats-8b627pkbb-aliml92.vercel.app/api/top-langs?username=aliml92&show_icons=true&locale=en&layout=compact&hide=html,css" alt="aliml92" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-8b627pkbb-aliml92.vercel.app/api?username=aliml92&show_icons=true&locale=en" alt="aliml92" />
 </p> -->
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IslomJonMirzakbarov&show_icons=true&locale=en&layout=compact&hide=html,css" alt="IslomJonMirzakbarov" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IslomJonMirzakbarov&show_icons=true&locale=en" alt="IslomJonMirzakbarov" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <table>
