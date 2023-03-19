@@ -66,7 +66,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:islomjon.swe@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="islomjon.swe@gmail.com" height="30" width="40" /></a><a href="https://linkedin.com/in/islomjon-m-380845214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islomjon-m-380845214" height="30" width="40" /></a>
+<a href="mailto:islomjon.swe@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="islomjon.swe@gmail.com" height="30" width="40" /></a>   <a href="https://linkedin.com/in/islomjon-m-380845214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islomjon-m-380845214" height="30" width="40" /></a>
 </p>
 
 <!-- <a href="https://medium.com/@alisherm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisherm" height="30" width="40" /></a> -->
