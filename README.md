@@ -67,20 +67,15 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td align="center" valign="bottom" style="padding-right: 20px;">
+    <td valign="bottom" style="padding-right: 20px;">
       <a href="mailto:islomjon.swe@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="islomjon.swe@gmail.com" height="30" width="40" /></a>
     </td>
-    <td align="center" valign="bottom">
+    <td valign="bottom">
       <a href="https://linkedin.com/in/islomjon-m-380845214" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islomjon-m-380845214" height="30" width="40" /></a>
     </td>
   </tr>
 </table>
-<!-- <p align="left">
-<a href="mailto:islomjon.swe@gmail.com" target="blank"><img align="end" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="islomjon.swe@gmail.com" height="30" width="40" /></a>   <a href="https://linkedin.com/in/islomjon-m-380845214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islomjon-m-380845214" height="30" width="40" /></a>
-</p> -->
 
-<!-- <a href="https://medium.com/@alisherm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisherm" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/aliml92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliml92" height="30" width="40" /></a> -->
-<!-- <p align="left">
-- 📫 Reach me through email at <a href="mailto:islomjon.swe@gmail.com" style="color:blue">islomjon.swe@gmail.com</a>
-</p> -->
+
+<!-- align="center"
+align="center" -->
