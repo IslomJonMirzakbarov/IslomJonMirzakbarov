@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islomjon</h1>
 <h3 align="center">Experienced software engineer with a passion for building robust and scalable software applicatons</h3>
 
-🌱 I’m currently learning **Testing in python.**
+<!-- 🌱 I’m currently learning **Testing in python.** -->
 
 <!-- 📝 I regularly write articles on [alisherm.dev](https://alisherm.dev) -->
 
