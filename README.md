@@ -60,9 +60,9 @@
   </a>
 </p>
 
-<!-- <p>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en&layout=compact" alt="IslomJonMirzakbarov" />
-</p> -->
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en" alt="IslomJonMirzakbarov" />
 </p>
 
