@@ -63,7 +63,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en&layout=compact" alt="IslomJonMirzakbarov" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en" alt="IslomJonMirzakbarov" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en&hide=issues" alt="IslomJonMirzakbarov" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
