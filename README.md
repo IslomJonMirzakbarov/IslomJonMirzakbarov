@@ -72,8 +72,8 @@
     <td valign="bottom" style="padding-right: 20px;">
       <a href="mailto:islomjon.swe@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="islomjon.swe@gmail.com" height="30" width="40" /></a>
     </td>
-    <td valign="bottom">
+<!--     <td valign="bottom">
       <a href="https://linkedin.com/in/islomjon-m-380845214" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islomjon-m-380845214" height="30" width="40" /></a>
-    </td>
+    </td> -->
   </tr>
 </table>
